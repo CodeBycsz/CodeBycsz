@@ -1,17 +1,17 @@
 
 
-<h1 align="center">Hello, I'm Carlos Saenz<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Transforming ideas into web experiences, with each line of code.<h3>
+<h1 align="center">Hola, Soy Carlos Saenz<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">Transformando ideas en experiencias web, con cada línea de código.<h3>
 <h4 align="center">Frontend Developer & OpenSource</h4>
 
 <p align="center">
  <img align="center" alt="HTML" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  <img align="center" alt="HTML" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
  <img align="center" alt="HTML" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-	<img align="center" alt="HTML" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+ <img align="center" alt="HTML" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </p>
 
-<p align="center">I am currently participating in web development and open source challenges that I started no more than a year ago. I committed to contributing every day to open source projects focused on improving the web experience. 📈 I am passionate about web development and seek to become an expert in building high-quality user experiences as a frontend developer</p>
+<p align="center">Me gusta explorar y aprender constantemente sobre el desarrollo web, desde la creación de interfaces atractivas hasta la optimización de experiencias de usuario. Tengo un gran interés en el desarrollo colaborativo y participo activamente en proyectos open source, donde contribuyo con soluciones prácticas mientras aprendo de la comunidad global de desarrolladores. Mi enfoque está en mejorar continuamente mis habilidades y mantenerme al día con las últimas tecnologías para aportar valor en cada proyecto.</p>
 
 <h4 align="center">Languages and Tools</h4>
 
